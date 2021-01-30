@@ -1,0 +1,17 @@
+.wpala{
+	border: 2px solid #000000;
+	width: 200px;
+	text-align: center;
+}
+
+.light-theme{
+	border: 5px solid gray;
+	width: 200px;
+	text-align: center;
+}
+
+.dark-theme{
+	border: 2px solid purple;
+	width: 200px;
+	text-align: center;
+}
